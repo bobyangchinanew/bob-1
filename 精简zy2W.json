@@ -171,4 +171,4 @@
 {"key":"字幕网","name": "字幕网","api": "http://zmcj88.com/sapi","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":163},
 {"key":"速度资源","name": "速度资源","api": "http://www.ggmmzy.com:9999/inc/xml","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":164},
 {"key":"U酷资源","name": "U酷资源","api": "https://api.ukuapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":165}
-]},
+]}
